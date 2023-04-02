@@ -1,1 +1,13 @@
 #+title: Readme
+Este es un repositorio para organizar las actividades que vamos a hacer los Domingos con Eva.
+Acá van a encontrar:
+- Actividaes y consignas de trabajo
+- Ejericios resueltos
+- Algún que otro material de estudio o consulta.
+
+El plan de estudios al <2023-04-02 dom> es:
+- [ ] La consola, comandos básicos para actualizar y upgradear la compu
+- [ ] La consola, cómo me muevo y hago cosas en esta cosa negra
+- [ ] La consola, cómo la dejo más linda
+- [ ] Programando algún juego
+- [ ] Escribiendo en la red
