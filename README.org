@@ -11,7 +11,7 @@ El plan de estudios al <2023-04-02 dom> es:
   - Probamos BashCrawl. https://gitlab.com/slackermedia/bashcrawl
   - Pasos:
     - Entrar a  https://gitlab.com/slackermedia/bashcrawl
-    - Buscar el botón que dice CLONE y copiar la primer direccion
+    - Buscar el botón que dice CLONE y copiar la segunda dirección
     - En la terminal, escribir `git clone <ACA LA DIRECCION COPIADA>`
     - ir a al directorio que se bajó con `cd bashcrawl`
     - Segir las instrucciones de la página
