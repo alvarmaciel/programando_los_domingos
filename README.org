@@ -6,8 +6,9 @@ Acá van a encontrar:
 - Algún que otro material de estudio o consulta.
 
 El plan de estudios al <2023-04-02 dom> es:
-- [ ] La consola, comandos básicos para actualizar y upgradear la compu
+- [X] La consola, comandos básicos para actualizar y upgradear la compu
 - [ ] La consola, cómo me muevo y hago cosas en esta cosa negra
+  - Probamos BashCrawl. https://gitlab.com/slackermedia/bashcrawl
 - [ ] La consola, cómo la dejo más linda
 - [ ] Programando algún juego
 - [ ] Escribiendo en la red
